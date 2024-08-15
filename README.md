@@ -34,5 +34,6 @@
 <h3 align="center">Devops</h3>
 
 <h3 align="center">Software</h3>
-
+// linux
+// adobe
 
