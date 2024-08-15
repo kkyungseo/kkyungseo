@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyung Seo KIM</h1>
 <h3 align="center">Programming Languages</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 // Java
 // JavaScript
 
