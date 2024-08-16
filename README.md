@@ -37,7 +37,7 @@
 ( still learning other certificates )<br/>
 <br/>
 ☕ Korean : native language <br/>
-☕ Englih : fluent (reading, writing, listening), intermediate (speaking) <br/>
+☕ English : fluent (reading, writing, listening), intermediate (speaking) <br/>
 ☕ Japanese : intermediate (reading, writing, listening, speaking)   <br/>
 
 
