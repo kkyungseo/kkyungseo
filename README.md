@@ -23,7 +23,8 @@
 🎓 Science & Engineering, EKGH <br/>
 🎓 B.S. in Biology & IT Engineering, SMWU <br/>
 🥼 Research Assistant in Organic Chemistry LAB & Embryology LAB <br/>
-🥼 Research Internship in Bioinformatics LAB
+🥼 Research Internship in Bioinformatics LAB <br/>
+💻 Data Processing-Based Java Full Stack Developer Curriculum of ICT Human Resources Development Institute of Korea
 
 # Awards
 🏅 Eunkwang Senior Talent Award in Biology <br/>
