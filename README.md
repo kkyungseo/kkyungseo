@@ -20,15 +20,24 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white">
 
 # Education
-🎓 B.S. in Biology & IT Engineering, SMWU
+🎓 Science & Engineering, EKGH <br/>
+🎓 B.S. in Biology & IT Engineering, SMWU <br/>
+🥼 Research Assistant in Organic Chemistry LAB & Embryology LAB <br/>
+🥼 Research Internship in Bioinformatics LAB
 
 # Awards
-
+🏅 Eunkwang Senior Talent Award in Biology <br/>
 🏅 Senior Admission to SMWU Biological Science Department <br/>
 🏅 8th Sookmyung Citizenship Fair
 
-# Certificates
+# Certificates & Language Skills
 📚 Computer Specialist in Spreadsheet & Data base Level-I <br/>
-( still learning other certificates )
+( still learning other certificates )<br/>
+<br/>
+☕ Korean : native language <br/>
+☕ Englih : fluent (reading, writing, listening), intermediate (speaking) <br/>
+☕ Japanese : intermediate (reading, writing, listening, speaking)   <br/>
+
+
 
 
