@@ -28,7 +28,7 @@
 # Awards
 🏅 Eunkwang Senior Talent Award in Biology <br/>
 🏅 Senior Admission to SMWU Biological Science Department <br/>
-🏅 8th Sookmyung Citizenship Fair
+🏅 8th Sookmyung Citizenship Fair - Global Digital Alienation
 
 # Certificates & Language Skills
 📚 Computer Specialist in Spreadsheet & Data base Level-I <br/>
