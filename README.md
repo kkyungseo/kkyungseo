@@ -25,7 +25,7 @@
 🥼 Research Assistant in Organic Chemistry LAB & Embryology LAB <br/>
 🥼 Research Internship in Bioinformatics LAB <br/>
 💻 Team Leader of LG Display Social Creator D:ple 20th <br/>
-💻 Data Processing-Based Java Full Stack Developer Curriculum of ICT Human Resources Development Institute of Korea
+💻 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea
 
 # Awards
 🏅 Eunkwang Senior Talent Award in Biology <br/>
