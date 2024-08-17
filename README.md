@@ -21,10 +21,10 @@
 
 # Education
 🎓 Science & Engineering, EKGH <br/>
+🎓 B.S. in Biology & IT Engineering, SMWU <br/><br/>
 🥼 Research Assistant in Organic Chemistry LAB & Embryology LAB <br/>
 🥼 Research Internship in Bioinformatics LAB <br/>
 💻 Team Leader of LG Display Social Creator D:ple 20th <br/>
-🎓 B.S. in Biology & IT Engineering, SMWU <br/>
 💻 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea
 
 # Awards
