@@ -25,6 +25,7 @@
 🥼 Research Assistant in Organic Chemistry LAB & Embryology LAB <br/>
 🥼 Research Internship in Bioinformatics LAB <br/>
 💻 Team Leader of LG Display Social Creator D:ple 20th <br/>
+💻 SMWU WINE (Women IN Engineering) Course - Linux & Arduino <br/>
 💻 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea
 
 # Awards
