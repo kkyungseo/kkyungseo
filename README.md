@@ -36,7 +36,7 @@
 # Certificates & Language Skills
 📚 Computer Specialist in Spreadsheet & Data base Level-I <br/>
 📚 AIDE (Artificial Intelligence Data Expert) Level-II <br/>
-( still learning other certificates )<br/>
+~ Still Learning Other Certificates ~ <br/>
 <br/>
 ☕ Korean : native language <br/>
 ☕ English : fluent (reading, writing, listening), intermediate (speaking) <br/>
