@@ -42,7 +42,7 @@
 ~ Still Learning Other Certificates ~ <br/>
 <br/>
 ☕ Korean : native language <br/>
-☕ English : fluent (reading, writing, listening), intermediate (speaking) <br/>
+☕ English : fluent (reading, writing, listening), intermediate (speaking) / TOEIC 950~885 <br/>
 ☕ Japanese : intermediate (reading, writing, listening, speaking)   <br/>
 
 
