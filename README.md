@@ -28,7 +28,12 @@
 🥼 Research Assistant in Organic Chemistry LAB & Embryology LAB <br/>
 🥼 Research Internship in Bioinformatics LAB <br/>
 💻 Team Leader of LG Display Social Creator D:ple 20th <br/>
+💻 2020 SMWU 3D Printing Makers Course <br/>
+💻 2020 Sookmyung Makers Startup Academy <br/>
+💻 SMWU Industry-Academic Cooperation (Engineering Department) Program - Java & Android <br/>
 💻 SMWU WINE (Women IN Engineering) Course - Linux & Arduino <br/>
+💻 SMWU Innovation Group Noonsong Class - Python & PsychoPy <br/>
+💻 2022 Sookmyung Makers Startup Academy <br/>
 💻 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea
 
 # Awards
