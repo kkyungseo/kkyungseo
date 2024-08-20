@@ -24,7 +24,7 @@
 
 # Education
 🎓 Science & Engineering, EKGH <br/>
-🎓 B.S. in Biology & IT Engineering, SMWU <br/><br/>
+🎓 B.S. in Biology & IT Engineering, SMWU <br/>
 🥼 Research Assistant in Organic Chemistry LAB & Embryology LAB <br/>
 🥼 Research Internship in Bioinformatics LAB <br/>
 💻 Team Leader of LG Display Social Creator D:ple 20th <br/>
