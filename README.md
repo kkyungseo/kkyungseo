@@ -20,7 +20,17 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white">
 
 # Contribution
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 # Education
 🎓 Science & Engineering, EKGH <br/>
