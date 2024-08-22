@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white">
 
-# Contribution
+# GitHub Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true&theme=dracula"
