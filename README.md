@@ -52,7 +52,7 @@
 🏅 8th Sookmyung Citizenship Fair - Global Digital Alienation
 
 # Certificates & Language Skills
-📚 Computer Specialist in Spreadsheet & Data base Level-I <br/>
+📚 Computer Specialist in Spreadsheet & Database Level-I <br/>
 📚 AIDE (Artificial Intelligence Data Expert) Level-II <br/>
 ~ Still Learning Other Certificates ~ <br/>
 <br/>
