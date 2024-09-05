@@ -37,23 +37,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
-# GitHub Stats
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</p>
--->
-
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkyungseo&layout=compact)
 -->
 
