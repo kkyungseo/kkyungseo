@@ -15,9 +15,23 @@
 &nbsp; 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
-# Communication
+# Communication & Stats
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white">
+
+<p align="left">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+</p>
 
 # GitHub Contribution
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
