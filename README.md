@@ -19,26 +19,18 @@
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white">
 
-<p align="left">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</p>
-
-# GitHub Contribution
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=material-palenight&days=45&grid=false&hide_title=true&title_color=C792EA&bg_color=282A36&radius=9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyungseo1106)](https://solved.ac/kkyungseo1106)
+&nbsp;&nbsp;
+![KyungSeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true&theme=dracula)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkyungseo&layout=compact)
 -->
+
+# GitHub Contribution
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=material-palenight&days=30&grid=false&hide_title=true&title_color=C792EA&bg_color=282A36&radius=9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 # Education
 🎓 Science & Engineering, EKGH <br/>
