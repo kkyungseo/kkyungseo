@@ -21,7 +21,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyungseo1106)](https://solved.ac/kkyungseo1106)
 &nbsp;&nbsp;
-![KyungSeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkyungseo&show_icons=true&theme=dracula)
+![KyungSeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkyungseo&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkyungseo&layout=compact)
