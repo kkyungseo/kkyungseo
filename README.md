@@ -44,7 +44,7 @@
 💻 SMWU WINE (Women IN Engineering) Course - Linux & Arduino <br/>
 💻 SMWU Innovation Group Noonsong Class - Python & PsychoPy <br/>
 💻 2022 Sookmyung Makers Startup Academy <br/>
-👩‍💻 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea
+📈 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea
 
 # Awards
 🏅 Eunkwang Senior Talent Award in Biology <br/>
@@ -52,8 +52,8 @@
 🏅 8th Sookmyung Citizenship Fair - Global Digital Alienation
 
 # Certificates & Language Skills
-📚 Computer Specialist in Spreadsheet & Database Level-I <br/>
-📚 AIDE (Artificial Intelligence Data Expert) Level-II <br/>
+🎯 Computer Specialist in Spreadsheet & Database Level-I <br/>
+🎯 AIDE (Artificial Intelligence Data Expert) Level-II <br/>
 ~ Still Learning Other Certificates ~ <br/>
 <br/>
 ☕ Korean : native language <br/>
