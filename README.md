@@ -22,6 +22,10 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyungseo1106)](https://solved.ac/kkyungseo1106)
 &nbsp;
 ![KyungSeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkyungseo&count_private=true&show_icons=true&theme=dracula)
+<!--
+[![CodeForces Profile](https://cf.leed.at?id=kkyungseo1106)](https://codeforces.com/profile/kkyungseo1106)
+&nbsp;
+-->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkyungseo&layout=compact)
