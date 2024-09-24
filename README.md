@@ -15,15 +15,17 @@
 &nbsp; 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"><img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyungseo1106)](https://solved.ac/kkyungseo1106)
+
+
 # Communication & Stats
 
 
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-333333?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyungseo1106)](https://solved.ac/kkyungseo1106)
-&nbsp;
 ![KyungSeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkyungseo&count_private=true&show_icons=true&theme=dracula) 
+
 
 <!--
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=kkyungseo1106&theme=dracula)
