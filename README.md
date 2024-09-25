@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=81C6CC&fontColor=282A36&height=100&section=header&text=-%20Kyung%20Seo%20KIM%20-&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=81C6CC&fontColor=282A36&height=100&section=header&text=🖤%20Kyung%20Seo%20KIM%20🖤&fontSize=50)
 
 
 
