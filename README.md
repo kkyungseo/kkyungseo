@@ -59,7 +59,7 @@
 🏅 Senior Admission to SMWU Biological Science Department <br/>
 🏅 8th Sookmyung Citizenship Fair - Global Digital Alienation
 
-# Certificates & Language Skills
+# Certifications & Language Skills
 🎯 Computer Specialist in Spreadsheet & Database Level-I <br/>
 🎯 AIDE (Artificial Intelligence Data Expert) Level-II <br/>
 ~ Still Learning Other Certificates ~ <br/>
