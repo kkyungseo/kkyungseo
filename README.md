@@ -52,7 +52,8 @@
 💻 SMWU WINE (Women IN Engineering) Course - Linux & Arduino <br/>
 💻 SMWU Innovation Group Noonsong Class - Python & PsychoPy <br/>
 💻 2022 Sookmyung Makers Startup Academy <br/>
-📈 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea
+📈 Data Processing-Based Java Full Stack Developer Curriculum 49th of ICT Human Resources Development Institute of Korea <br/>
+📈 Team Leader (PL & TA & DA) of Data Processing-Based Java Full Stack Developer Curriculum 49th Team 01
 
 # Awards
 🏅 Eunkwang Senior Talent Award in Biology <br/>
