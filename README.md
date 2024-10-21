@@ -63,6 +63,7 @@
 # Certifications & Language Skills
 🎯 Computer Specialist in Spreadsheet & Database Level-I <br/>
 🎯 AIDE (Artificial Intelligence Data Expert) Level-II <br/>
+🎯 DAsP (Data Architecture Semi-Professional) <br/>
 ~ Still Learning Other Certificates ~ <br/>
 <br/>
 ☕ Korean : native language <br/>
