@@ -64,6 +64,10 @@
 🎯 Computer Specialist in Spreadsheet & Database Level-I <br/>
 🎯 AIDE (Artificial Intelligence Data Expert) Level-II <br/>
 🎯 DAsP (Data Architecture Semi-Professional) <br/>
+
+<!-- 🎯 ADsP (Advanced Data Analytics Semi-Professional) <br/> -->
+<!-- 🎯 SQLD (SQL Developer) <br/> -->
+
 ~ Still Learning Other Certificates ~ <br/>
 <br/>
 ☕ Korean : native language <br/>
