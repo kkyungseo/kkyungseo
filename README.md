@@ -37,7 +37,7 @@
 
 
 # GitHub Contribution
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=material-palenight&days=30&grid=false&hide_title=true&title_color=C792EA&bg_color=282A36&radius=9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=material-palenight&days=10&grid=false&hide_title=true&title_color=C792EA&bg_color=282A36&radius=9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
