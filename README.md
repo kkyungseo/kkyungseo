@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=C792EB&fontColor=282A36&height=100&section=header&text=🖤%20Kyung%20Seo%20KIM%20🖤&fontSize=50)
 
-
+💜 Currently studying and working on projects as a Data Engineer <br/>
+💜 Experienced Freelance Developer (Registered as a Business Owner) in international projects and software
 
 # Tech Stack
 
