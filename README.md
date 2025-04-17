@@ -21,7 +21,7 @@
 - Science & Engineering, EKGH
 - B.S. in Biology & IT Engineering, SMWU
 
-## Task-Based Simulations in Life Sciences & Data
+## Task-Based Job Simulations
 - Pfizer : Molecule to Market Job Simulation
 - LifeArc : Biology Research Job Simulation 
 - Commonwealth Bank : Introduction to Data Science Job Simulation 
