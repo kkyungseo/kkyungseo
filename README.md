@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=C792EB&fontColor=282A36&height=100&section=header&text=🖤%20Kyung%20Seo%20KIM%20🖤&fontSize=50)
 
-💜 Currently studying and working on projects as a Data Engineer & Analyst <br/>
-💜 Experienced Freelance Developer (Registered as a Business Owner) in international projects and software
+💜 Currently studying and working on projects as a Data Specialist <br/>
+💜 YEARDREAM SCHOOL 5th / AI & Data Course <br/>
+💜 Experienced Freelance Developer (Registered as a Business Owner) in International Projects and Software 
 
-# Tech Stack
+# Tech Stack (Open to Learn More)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 &nbsp; 
