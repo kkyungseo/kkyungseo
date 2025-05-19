@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&theme=merko&text=Hello!%20😀%20I'm%20Kyung%20Seo!&fontSize=40&height=100&)
+![header](https://capsule-render.vercel.app/api?type=rounded&theme=merko&text=Hello!%20😉%20I'm%20Kyung%20Seo!&fontSize=40&height=100&)
 
 - Currently Studying and Working on Projects as a Data Specialist <br/>
 - Experienced Freelance Developer & Researcher in International Projects and Software 
