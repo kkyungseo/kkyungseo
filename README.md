@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&theme=merko&text=Hello!%20😀%20I'm%20Kyung%20Seo!&fontSize=40&height=100&)
 
 🍀 Currently Studying and Working on Projects as a Data Specialist <br/>
-🍀 Experienced Freelance Developer (Registered as a Business Owner) in International Projects and Software 
+🍀 Experienced Freelance Developer & Researcher in International Projects and Software 
 
-[![Kyung Seo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=merko&hide_border=true&area=true&&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kyung Seo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=merko&hide_border=true&hide_title=true&area=true&&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
