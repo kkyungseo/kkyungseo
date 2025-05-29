@@ -3,8 +3,8 @@
 
 ---
 - YEARDREAM SCHOOL 5th (Hybrid | Seoul Digital Industrial Complex) AI & Data Training Course : sponsored by KOSME, Elice <br/>
-- Developer @276Holdings (On-Site | Yeouido, Seoul, South Korea) <br/>
-- Open Source Software Engineer @Ktypto Hashers Community (Remote) 
+- Developer @ 276 HOLDINGS (On-Site | Yeouido, Seoul, South Korea) <br/>
+- Open Source Software Engineer @ Ktypto Hashers Community (Remote) 
 ---
 - Studying and Working on Projects as a Data Specialist <br/>
 - Experienced Freelance Developer & Researcher in International Projects and Software 
