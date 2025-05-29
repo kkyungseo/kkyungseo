@@ -2,7 +2,7 @@
 
 
 ---
-- YEARDREAM SCHOOL 5th (Hybrid | Seoul Digital Industrial Complex) | AI & Data Training Course - sponsored by KOSME & Elice <br/>
+- YEARDREAM SCHOOL 5th (Hybrid | Seoul Digital Industrial Complex) AI & Data Training Course : sponsored by KOSME, Elice <br/>
 - Developer @276Holdings (On-Site | Yeouido, Seoul, South Korea) <br/>
 - Open Source Software Engineer @Ktypto Hashers Community (Remote) 
 ---
