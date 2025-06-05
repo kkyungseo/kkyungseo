@@ -8,6 +8,7 @@
 ---
 - Studying and Working on Projects as a Data Specialist <br/>
 - Experienced Freelance Developer & Researcher in International Projects and Software 
+- Author of IEEE EUROCON paper (will be published in July,2025)
 ---
 
 [![Kyung Seo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=merko&hide_border=true&hide_title=true&radius=300&area=true&&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
