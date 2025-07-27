@@ -8,7 +8,7 @@
 ---
 - Studying and Working on Projects as a Data Specialist <br/>
 - Experienced Freelance Developer & Researcher in International Projects and Software 
-- Author of [IEEE EUROCON paper](https://ieeexplore.ieee.org/document/11073437) 
+- Published AI Researcher : [IEEE EUROCON AI paper](https://ieeexplore.ieee.org/document/11073437) - Deep Learning for Computer Vision
 ---
 
 [![Kyung Seo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kkyungseo&theme=merko&hide_border=true&hide_title=true&radius=300&area=true&&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
