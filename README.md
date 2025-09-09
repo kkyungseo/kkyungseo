@@ -2,9 +2,12 @@
 
 
 ---
-- YEARDREAM SCHOOL 5th (Hybrid | Seoul Digital Industrial Complex) AI & Data Training Course : sponsored by KOSME, Elice <br/>
 - AI Engineer @ 276 HOLDINGS (On-Site | Yeouido, Seoul, South Korea) <br/>
-- Open Source Software Engineer @ Ktypto Hashers Community (Remote) 
+- Open Source Software Engineer @ Ktypto Hashers Community (Remote) <br/>
+- 11th Open Source Project Learner @ PseudoLab - Text2SQL Team <br/> 
+- SW Mentor 2025 - AI (Hybrid | Sangsan High School) : sponsored by MSIT of Korea, DongA Science <br/>
+- YEARDREAM SCHOOL 5th (Hybrid | Seoul Digital Industrial Complex) AI & Data Training Course : sponsored by MSS of Korea, KOSME, Elice <br/>
+
 ---
 - Studying and Working on Projects as a Data Specialist <br/>
 - Experienced Freelance Developer & Researcher in International Projects and Software 
