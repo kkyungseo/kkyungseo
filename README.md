@@ -2,8 +2,7 @@
 
 
 ---
-- AI Engineer @ 276 HOLDINGS (On-Site | Yeouido, Seoul, South Korea) <br/>
-- 11th Open Source Project Runner @ PseudoLab - Text2SQL Team (Hybrid) <br/> 
+- Data Scientist @ Amously (On-Site | Gangnam-gu, Seoul, South Korea) <br/>
 
 ---
 - Studying and Working on Projects as a Data Specialist <br/>
