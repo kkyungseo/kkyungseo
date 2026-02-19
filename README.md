@@ -2,13 +2,14 @@
 
 
 ---
-- Data Scientist @ Amously (On-Site | Gangnam-gu, Seoul, South Korea) <br/>
-
+- Now : Data Scientist @ Amously (Semiconductor Manufacturing Platform | On-Site, Seoul, South Korea)
+- Former : AI Engineer @ 276HOLDINGS (SME Receivables Trading Platform | Seoul, South Korea)
 ---
 - Studying and Working on Projects as a Data Specialist <br/>
-- Experienced Freelance Developer & Researcher in International Projects and Software <br/>
-- Published AI & Data Researcher : [IEEE EUROCON 2025 proceedings](https://ieeexplore.ieee.org/document/11073437) - Deep Learning for Computer Vision <br/>
-- Published AI & Data Researcher : IEEE International Conference in Big Data 2025 - AI-Based Transaction-Level Data Analytics <br/>
+- Experienced AI/SW Mentor for a Ministry of Science and ICT (MSIT), Republic of Korea
+- Published AI & Data Researcher in International Projects <br/>
+  - Published AI & Data Researcher : [IEEE EUROCON 2025](https://ieeexplore.ieee.org/document/11073437) - Deep Learning for Computer Vision <br/>
+  - Published AI & Data Researcher : IEEE International Conference in Big Data 2025 - AI-Based Transaction-Level Data Analytics with AI Model Optimization <br/>
  
 ---
 
