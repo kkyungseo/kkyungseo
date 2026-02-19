@@ -2,8 +2,8 @@
 
 
 ---
-- Now : Data Scientist @ Amously (Semiconductor Manufacturing Platform | On-Site, Seoul, South Korea)
-- Former : AI Engineer @ 276HOLDINGS (SME Receivables Trading Platform | Seoul, South Korea)
+- Now : Data Scientist @ Amously (Semiconductor Manufacturing Platform | Seoul, Republic of Korea)
+- Former : AI Engineer @ 276HOLDINGS (SME Receivables Trading Platform | Seoul, Republic of Korea)
 ---
 - Studying and Working on Projects as a Data Specialist <br/>
 - Experienced AI/SW Mentor for a Ministry of Science and ICT (MSIT), Republic of Korea
