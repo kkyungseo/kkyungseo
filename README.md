@@ -9,8 +9,8 @@
 ---
 - Experienced AI/SW Mentor for a Ministry of Science and ICT (MSIT), Republic of Korea <br/>
 - Published AI & Data Researcher in International Projects <br/>
-  - Published AI & Data Researcher : [IEEE EUROCON 2025](https://ieeexplore.ieee.org/document/11073437) - Deep Learning for Computer Vision <br/>
-  - Published AI & Data Researcher : [IEEE International Conference in Big Data 2025](https://ieeexplore.ieee.org/document/11402439) - AI-Based Transaction-Level Data Analytics with AI Model Optimization <br/>
+  - [IEEE EUROCON 2025](https://ieeexplore.ieee.org/document/11073437) - Deep Learning for Computer Vision <br/>
+  - [IEEE International Conference in Big Data 2025](https://ieeexplore.ieee.org/document/11402439) - AI-Based Transaction-Level Data Analytics with AI Model Optimization <br/>
  
 ---
 
