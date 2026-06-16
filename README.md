@@ -6,7 +6,7 @@
     - AI Engineer @ 276HOLDINGS (SME Receivables Trading Platform | Seoul, Republic of Korea)
     - Research Assistant @ SMWU (Organic Chemistry, Embryology, Bioinformatics LAB | Seoul, Republic of Korea)
 ---
-- Bachelor of Science - BS, Sookmyung Women's University, Biological Sciences (Major) & IT Engineering (Minor) <br/>
+- Bachelor of Science - BS, Sookmyung Women's University (Republic of Korea), Biological Sciences (Major) & IT Engineering (Minor) <br/>
 ---
 - Experienced AI/SW Mentor for a Ministry of Science and ICT (MSIT), Republic of Korea <br/>
 - Published AI & Data Researcher in International Projects <br/>
