@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:c8e6c9,100:9ccc65&text=Hello!%20🍀%20I'm%20Kyung%20Seo!&fontSize=40&fontColor=1b5e20&height=100&)
 ---
 - Now
-    - CEO Staff @ hyperstar AI (AI-powered Influencer Marketing Intelligence Platform | Seoul, Republic of Korea)
+    - CEO Staff @ hyperstar AI (Influencer Marketing AI Platform | Seoul, Republic of Korea)
 - Former
     - Research Assistant @ Sookmyung Women’s University (Organic Chemistry, Embryology, Bioinformatics LAB | Seoul, Republic of Korea)
-    - AI Engineer @ 276HOLDINGS (SME Receivables Trading Platform | Seoul, Republic of Korea)
-    - Data Scientist @ Amously (Semiconductor Manufacturing Platform | Seoul, Republic of Korea)
+    - AI Engineer @ 276HOLDINGS (SME Receivables Trading AI Platform | Seoul, Republic of Korea)
+    - Data Scientist @ Amously (Semiconductor Manufacturing AI Platform | Seoul, Republic of Korea)
     
 ---
 - Bachelor of Science - BS, Sookmyung Women's University (Republic of Korea)
